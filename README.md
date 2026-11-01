@@ -23,7 +23,7 @@ I’m currently exploring my passion for coding and problem-solving at the **Uni
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -39,4 +39,5 @@ I’m currently exploring my passion for coding and problem-solving at the **Uni
 
 ## 📫 Get in touch
 
-Email: [govenderjezelle6@gmail.com](mailto:govenderjezelle6@gmail.com)
+Email: [govenderjezelle6@gmail.com](mailto:govenderjezelle6@gmail.com)  
+LinkedIn: [Jezelle Govender](https://www.linkedin.com/in/jezelle-govender)
